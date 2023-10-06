@@ -42,3 +42,4 @@ print()
 for i in range(3):
     print(p[i])
     
+print(p)    
